@@ -1,0 +1,12 @@
+{
+	"MetaModulePluginMaintainer": "Richard Smith",
+	"MetaModulePluginMaintainerEmail": "",
+	"MetaModulePluginMaintainerUrl": "",
+	"MetaModuleDescription": "AlliewayAudio_Freebies",
+	"MetaModuleIncludedModules": [
+		{
+			"slug": "chilly_cheese",
+			"name": "Chilly Cheese"
+		}
+	]
+}
