@@ -22,8 +22,16 @@ cd git submodule update
 git submodule update --recursive
 ```
 
+To generate PNG image from SVG:
+
+```
+cd metamodule-plugin-sdk
+./scripts/SvgToPng.py --input ../AlliewayAudio_Freebies/res/ --output ../AlliewayAudio_Freebies/asset
+```
 
 
+
+To compile, and build:
 ```
 cd AlliewayAudio_Freebies
 cmake -B build -G Ninja -DTOOLCHAIN_BASE_DIR=<path-to-arm64-arm-none-eabi>/bin
