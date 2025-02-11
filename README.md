@@ -1,4 +1,10 @@
 # AlliewayAudio_Freebies
+
+
+> [!NOTE]
+> This is a fork of the [AlliewayAudio_Freebies VCVRack plugin](https://github.com/AlliewayAudio/AlliewayAudio_Freebies), in order to build a .mmplugin binary of the Chilly Cheese module (itself a version of the [Whimiscal Raps Cold Mac](https://www.whimsicalraps.com/products/cold-mac) Eurorack module) for the [4MS MetaModule](https://metamodule.4ms.info/) Eurorack module.
+
+
 Free and open source VCVrack modules made by Allieway Audio with love <3 
 
 Disclaimer: All direct clones or recreations were made with permission from their respective manufacturers.
