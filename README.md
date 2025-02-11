@@ -11,6 +11,9 @@ Disclaimer: All direct clones or recreations were made with permission from thei
 
 ## Building For MetaModule
 
+> [!NOTE]
+> This follows the prequisites and VCVRack plugin porting instructions for the 4MS MetaModule described in the [MetaModule Plugin SDK](https://github.com/4ms/metamodule-plugin-sdk) repo. 
+
 Check this repo out into a ```<projects-dir>/AlliewayAudio_Freebies``` folder
 
 then:
